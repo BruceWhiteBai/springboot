@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 //指定扫描的mapper接口所在的包
-@MapperScan("com.zyd.testMybatis.mapper")
+@MapperScan("com.zyd.mybatis.mapper")
 public class AppMybatisConfiguration {
 //
 //    private static final String TYPE_ALIASES_PACKAGE = "com.zyd.testMybatis.com.rest.entity";

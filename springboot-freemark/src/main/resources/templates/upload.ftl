@@ -32,6 +32,7 @@ $("#submitBtn").click(function(){
         data: data,
         success: function(msg){
         	$.alert(msg);
+            $.alert("123123123abc");
         },
         error: function(msg){
             $.alert("error.异常了！");

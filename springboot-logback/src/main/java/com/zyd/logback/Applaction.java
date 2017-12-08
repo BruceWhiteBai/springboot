@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -16,6 +17,7 @@ import java.util.Date;
  */
 @SpringBootApplication
 @RestController
+//@PropertySource(value = "classpath:application.properties", ignoreResourceNotFound = true)
 public class Applaction {
     private static final Logger LOGGER = LoggerFactory.getLogger(Applaction.class);
 
