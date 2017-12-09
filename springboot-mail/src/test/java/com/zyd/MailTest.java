@@ -50,7 +50,7 @@ public class MailTest {
     @Value("${spring.mail.username}")
     private String from; //读取配置文件中的参数
 
-    private String to = "311xxx1178@qq.com";
+    private String to = "1258444549@qq.com";
 
     @Test
     public void sendSimpleMail() {
