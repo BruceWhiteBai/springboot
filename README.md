@@ -38,4 +38,4 @@ My Springboot modules
 - [new issue](https://github.com/zhangyd-c/springboot/issues)
 - [给我留言](http://www.flyat.cc/guestbook)
 - [![qq](http://pub.idqqimg.com/wpa/images/group.png "加入QQ群")](http://shang.qq.com/wpa/qunwpa?idkey=818382ba0fc222dffc0da6f71aa207bfaf93bafb856e1c852e56de5911cb4c19)
-### 如果喜欢，请多多分享、多多Star
+### 如果喜欢，请多多分享、多多Star --asdf
